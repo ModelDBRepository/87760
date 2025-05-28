@@ -27,8 +27,6 @@ The files in both of these archives are identical and are suitable for Matlab ve
 
 ---
 
-*Created by Ian Bruce <ibruce@ieee.org> - last modified Wednesday, January 4, 2006*
-
----
-
-2025-05-27 – Standardized to Markdown
+*Created by Ian Bruce <ibruce@ieee.org>*
+- last modified Wednesday, January 4, 2006
+- Standardized to Markdown, May 27, 2025
